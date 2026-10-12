@@ -1,0 +1,6 @@
+{
+  "repository": "Robinson-AI-Systems/robinsonai-mcp-servers",
+  "requiredChecks": [
+    "release-policy"
+  ]
+}
